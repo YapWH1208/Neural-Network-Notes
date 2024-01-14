@@ -54,8 +54,10 @@ X_train, y_train = torch.Tensor(X_train).to(device), torch.Tensor(y_train).view(
 X_test, y_test = torch.Tensor(X_test).to(device), torch.Tensor(y_test).view(-1, 1).to(device)
 ```
 
-![[Data.png|center|650]]
-<center>Diagram 1: Data Distribution</center>
+<div align="center">
+  <img src="https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Early%20Stopping/Data.png" alt="Data Distribution">
+  <p>Diagram 1: Data Distribution</p>
+</div>
 
 ## Build Model
 ```python
@@ -152,5 +154,7 @@ Epoch: 0240/1000 | Train loss: 0.1682 | Validation loss: 0.3488
 Early stopping!
 ```
 
-![[Result.png|center|650]]
-<center>Diagram 2: Graph of Train Loss against Validation Loss</center>
+<div align="center">
+  <img src="https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Early%20Stopping/Result.png" alt="Graph of Train Loss against Validation Loss">
+  <p>Diagram 2: Graph of Train Loss against Validation Loss</p>
+</div>
