@@ -13,8 +13,10 @@ Parameter:
 - `gamma` (float) : learning rate multiplier
 - `last_epoch` (int) : The index of last epoch to change the learning rate
 
-![[StepLR.png|center|650]]
-<center>step_size=5, gamma=0.5, init_lr=0.1</center>
+<div align="center">
+  <img src="https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Learning%20Rate%20Schedular/StepLR.png">
+  <p>step_size=5, gamma=0.5, init_lr=0.1</p>
+</div>
 
 # MultiStepLR
 
@@ -29,8 +31,10 @@ Parameter:
 - `gamma` (float) : learning rate multiplier
 - `last_epoch` (int) : The index of last epoch to change the learning rate
 
-![[MultiStepLR.png|center|650]]
-<center>milestones=[5,10,15], gamma=0.5, init_lr=0.1</center>
+<div align="center">
+  <img src="https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Learning%20Rate%20Schedular/MultiStepLR.png">
+  <p>milestones=[5,10,15], gamma=0.5, init_lr=0.1</p>
+</div>
 
 # ExponentialLR
 
@@ -44,8 +48,10 @@ Parameter:
 - `gamma` (float) : learning rate multiplier
 - `last_epoch` (int) : The index of last epoch to change the learning rate
 
-![[ExponentialLR.png|center|650]]
-<center>gamma=0.5, init_lr=0.1</center>
+<div align="center">
+  <img src="https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Learning%20Rate%20Schedular/ExponentialLR.png">
+  <p>gamma=0.5, init_lr=0.1</p>
+</div>
 
 # CosineAnnealingLR
 
@@ -60,5 +66,7 @@ Parameter:
 - `eta_max` (int) : Minimum learning rate
 - `last_epoch` (int) : The index of last epoch to change the learning rate
 
-![[CosineAnnealingLR.png|center|650]]
-<center>T_max=10, eta_min=0, init_lr=0.1</center>
+<div align="center">
+  <img src="https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Learning%20Rate%20Schedular/CosineAnnealingLR.png">
+  <p>T_max=10, eta_min=0, init_lr=0.1</p>
+</div>
