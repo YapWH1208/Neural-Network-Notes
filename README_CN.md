@@ -1,3 +1,5 @@
+[Eng](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/README.md) / [中文](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/README_CN.md)
+
 # Neural-Network-Notes
 神经网络笔记
 
