@@ -8,12 +8,12 @@ Neural Network Notes
 - [Requirements.txt](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/Requirements.txt.md)
 ## Algorithm
 - [Attention Mechanism](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/AI%E7%AE%97%E6%B3%95/Attention%20Mechanism.md)
-- [线性回归](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/AI%E7%AE%97%E6%B3%95/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md)
+- [Linear Regression](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/AI%E7%AE%97%E6%B3%95/Linear%20Regression/Linear%20Regression.md)
 
 ## Techniques
 - [Early Stopping](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Early%20Stopping/Early%20Stopping.md)
 - [Learning Rate Scheduler](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Learning%20Rate%20Schedular/Learning%20Rate%20Schedular.md)
-- [调参指南](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Hyperparameter%20Tuning/%E8%B0%83%E5%8F%82%E6%8C%87%E5%8D%97.md)
+- [Hyperparameter Tuning Guide](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Hyperparameter%20Tuning/Hyperparameter%20Tuning%20Guide.md)
 - [Logger](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Logger.md)
 - [Seed](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Seed.md)
 

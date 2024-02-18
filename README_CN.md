@@ -8,7 +8,7 @@
 - [Requirements.txt](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/Requirements.txt.md)
 ## 算法
 - [Attention Mechanism](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/AI%E7%AE%97%E6%B3%95/Attention%20Mechanism.md)
-- [线性回归](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/AI%E7%AE%97%E6%B3%95/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md)
+- [线性回归](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/AI%E7%AE%97%E6%B3%95/Linear%20Regression/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md)
 
 ## 技巧
 - [Early Stopping](https://github.com/YapWH1208/Neural-Network-Notes/blob/main/%E6%8A%80%E5%B7%A7/Early%20Stopping/Early%20Stopping.md)
